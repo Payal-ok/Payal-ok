@@ -1,4 +1,4 @@
-<img alt = "banner" src =("pp1.jpg")>
+![logo](pp1.jpg)
 <h1 align="center">Hi 👋, I'm Payal</h1>
 <h3 align="center">A lazy but Smart coder</h3>
 
