@@ -1,17 +1,16 @@
-<h1 align="center">Payal</h1>
-<p align="center">Data Science & Machine Learning</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=550&lines=Payal;Data+Science+%26+Machine+Learning;Cybersecurity+%7C+Quantitative+Finance;IIT+Madras+%7C+Maharaja+Agrasen+College" alt="Typing SVG" />
+</h1>
 
 ---
 
 ### About
 
-Data science student focused on machine learning — building an
-understanding of the algorithms from the math up, implementing them
-in NumPy rather than relying on library defaults.
+
 
 Studying at **IIT Madras** and **Maharaja Agrasen College**.
 
-📫 payalpal122005@gmail.com
+
 ---
 
 ### Skills
