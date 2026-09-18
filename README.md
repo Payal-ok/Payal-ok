@@ -14,7 +14,7 @@ Studying at **IIT Madras** and **Maharaja Agrasen College**.
 
 ---
 
-### Skills
+
 
 ### 🛠️ Tech Stack & Skills
 
