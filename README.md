@@ -18,11 +18,15 @@ Studying at **IIT Madras** and **Maharaja Agrasen College**.
 
 ### 🛠️ Tech Stack & Skills
 
+
+
+* **AI & Advanced ML:** LangChain · RAG · Ollama · Linear Regression · SVM · k-Means · PCA · Optimization
 * **Programming Languages:** Python · JavaScript · R · Java · C++ · HTML/CSS
 * **Backend Development:** Node.js · RESTful APIs
-* **Databases & Storage:** PostgreSQL · MySQL · SQLite · SQL
-* **Data Science & ML:** NumPy · Pandas · Data Analysis · Linear Regression · SVM · k-Means · PCA
+* **Databases & Storage:** MongoDB · PostgreSQL · MySQL · SQLite · SQL
+* **Data Science & Computing:** NumPy · Pandas · Data Analysis
 * **Software Engineering:** Data Structures & Algorithms · Tkinter (GUI)
+
 
 ---
 
