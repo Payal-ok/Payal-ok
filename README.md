@@ -32,5 +32,5 @@ Studying at **IIT Madras** and **Maharaja Agrasen College**.
 
 ### Connect
 
-[LinkedIn](www.linkedin.com/in/payal-pal-97a549317) &nbsp;·&nbsp;
+[LinkedIn](https://www.linkedin.com/in/payal-pal-97a549317/) &nbsp;·&nbsp;
 [Email](payalpal122005@gmail.com)
